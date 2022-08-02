@@ -63,7 +63,7 @@
 
 ### Deploy :
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=[https://github.com/tuhinpal/WhatsBot](https://github.com/CutieCat6778/Whatsup) "Deploy with Heroku")<br>
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=[https://github.com/CutieCat6778/Whatsup](https://github.com/CutieCat6778/Whatsup) "Deploy with Heroku")<br>
 
 <!-- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RTyLts?referralCode=tuhin) -->
 
